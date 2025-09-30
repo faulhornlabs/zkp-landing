@@ -26,6 +26,7 @@ Hash functions:
 
 ### Talks
 
+- [Introduction to zero-knowledge proofs](https://github.com/bkomuves/slides/blob/master/computer_science/zk_proofs_2025.pdf) (2025)
 - [Succinct proofs of arbitrary computations (zkVMs)](https://github.com/bkomuves/slides/blob/master/computer_science/zkvm_talk_2024.pdf) (2024)
-- [A very brief introduction to Zero-Knowledge Proofs](https://github.com/bkomuves/slides/blob/master/computer_science/bme_zk_talk_2023.pdf) (2023)
+- [A very brief introduction to zero-knowledge proofs](https://github.com/bkomuves/slides/blob/master/computer_science/bme_zk_talk_2023.pdf) (2023)
 - [Introduction to zero-knowledge proof systems](https://github.com/bkomuves/slides/blob/master/computer_science/zk_proofs_intro_2022.pdf) (2022)
